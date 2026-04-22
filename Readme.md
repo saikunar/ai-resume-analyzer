@@ -38,3 +38,5 @@
   "resume": "your resume text",
   "job_description": "job description text"
 }
+## 🌐 Live Demo
+👉 https://ai-resume-analyzer-xxxx.onrender.com/docs
